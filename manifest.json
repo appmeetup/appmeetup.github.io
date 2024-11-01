@@ -1,6 +1,6 @@
 {
-    "name": "meet_up",
-    "short_name": "meet_up",
+    "name": "Meet Up",
+    "short_name": "Meet Up",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#hexcode",
